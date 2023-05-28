@@ -1,0 +1,39 @@
+{
+  "name": "authtrainer-client",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1",
+    "@tailwindcss/forms": "^0.5.1",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.27.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-flatpickr": "^3.10.7",
+    "react-icons": "^4.4.0",
+    "react-leaflet": "^3.2.5",
+    "react-redux": "^8.0.1",
+    "react-router-dom": "^6.2.1",
+    "react-transition-group": "^4.4.1",
+    "redux": "^4.2.0",
+    "socket.io-client": "^4.6.1",
+    "styled-components": "^5.3.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.5",
+    "sass": "^1.49.0",
+    "tailwindcss": "^3.1.4",
+    "vite": "^2.7.2"
+  },
+  "author": {
+    "name": "malvaphe",
+    "email": "malvaphe@gmail.com",
+    "url": "https://github.com/malvaphe"
+  }
+}

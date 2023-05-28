@@ -1,0 +1,24 @@
+# Server Node.js
+server/standardAuth/withSession/node_modules
+server/standardAuth/withToken/node_modules
+server/passwordlessAuth/node_modules
+server/doubleAuth/node_modules
+server/socialAuth/node_modules
+server/standardAuth/withSession/config/const.js
+server/standardAuth/withToken/config/const.js
+server/passwordlessAuth/config/const.js
+server/doubleAuth/config/const.js
+server/socialAuth/config/const.js
+
+# Client React.js
+client/standardAuth/withSession/node_modules
+client/standardAuth/withSession/dist
+client/standardAuth/withToken/node_modules
+client/standardAuth/withToken/dist
+client/passwordlessAuth/node_modules
+client/passwordlessAuth/dist
+client/doubleAuth/node_modules
+client/doubleAuth/dist
+client/socialAuth/node_modules
+client/socialAuth/dist
+client/socialAuth/src/const.js
