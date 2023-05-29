@@ -182,3 +182,7 @@ server {
 
 }
 ```
+
+## Authors
+
+- [@malvaphe](https://www.github.com/malvaphe)
